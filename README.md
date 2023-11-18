@@ -29,7 +29,7 @@ We select some important files for detailed description.
 |-- LightFed # experiments for baselines, DFDG and datasets
     |-- experiments/ #
         |-- datasets/ 
-            |-- data_distributer.py/  # the load datasets,including FMNSIT, SVHN, CIFAR-10, CINIC-10
+            |-- data_distributer.py/  # the load datasets,including FMNSIT, SVHN, CIFAR-10, CINIC-10, CIFAR-100, Tiny-ImageNet, FOOD101
         |-- horizontal/ ## DFDG and baselines
             |-- DENSE/
             |-- DFAD/
